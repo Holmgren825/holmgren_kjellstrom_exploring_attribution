@@ -1,0 +1,7 @@
+[tool.pylsp-mypy]
+enabled = false
+live_mode = false
+dmypy = true
+[tool.ruff]
+select = ["C", "W", "E", "F", "B", "I"]
+line-length = 88

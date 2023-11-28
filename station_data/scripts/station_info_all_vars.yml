@@ -1,0 +1,125 @@
+Delsbo A:
+  lat: 61.7854
+  lon: 16.5505
+  var:
+  - pr
+Falun-Lugnet:
+  lat: 60.6219
+  lon: 15.6235
+  var:
+  - pr
+Gladhammar A:
+  lat: 57.7874
+  lon: 16.5934
+  var:
+  - tasmax
+Gävle-Åbyggeby:
+  lat: 60.67
+  lon: 17.130000000000003
+  var:
+  - pr
+Göteborg A:
+  lat: 57.7165854565232
+  lon: 12.014231475474137
+  var:
+  - tasmax
+Halmstad flygplats:
+  lat: 56.6749
+  lon: 12.9246
+  var:
+  - tasmax
+Härnösand:
+  lat: 62.628
+  lon: 17.9471
+  var:
+  - pr
+Jönköping-Axamos Flygplats:
+  lat: 57.7833
+  lon: 14.1667
+  var:
+  - tasmax
+Kalmar flygplats:
+  lat: 56.6499
+  lon: 16.3699
+  var:
+  - tasmax
+Karlshamn:
+  lat: 56.182024
+  lon: 14.849442
+  var:
+  - tasmax
+Kristianstad:
+  lat: 56.33
+  lon: 14.15
+  var:
+  - tasmax
+Linköping-Malmslätt:
+  lat: 58.4166
+  lon: 15.6333
+  var:
+  - tasmax
+Malung A:
+  lat: 60.7041
+  lon: 13.6909
+  var:
+  - pr
+Skara:
+  lat: 58.400000000000006
+  lon: 13.450000000000001
+  var:
+  - tasmax
+Stockholm-Observatoriekullen:
+  lat: 59.341682
+  lon: 18.054928
+  var:
+  - pr
+Stockholm-Observatoriekullen A:
+  lat: 59.341682
+  lon: 18.054928
+  var:
+  - tasmax
+Sveg A:
+  lat: 62.029
+  lon: 14.3506
+  var:
+  - pr
+Uppsala:
+  lat: 59.8585
+  lon: 17.6219
+  var:
+  - pr
+Uppsala Aut:
+  lat: 59.8585
+  lon: 17.6219
+  var:
+  - tasmax
+Visby Flygplats:
+  lat: 57.636
+  lon: 18.2891
+  var:
+  - tasmax
+Vänersborg:
+  lat: 58.3552
+  lon: 12.3616
+  var:
+  - tasmax
+Västerås:
+  lat: 59.6166
+  lon: 16.55
+  var:
+  - pr
+Växjö A:
+  lat: 56.8697
+  lon: 14.8004
+  var:
+  - tasmax
+Örebro D:
+  lat: 59.244800000000005
+  lon: 15.285400000000001
+  var:
+  - pr
+Örebro Flygplats:
+  lat: 59.244800000000005
+  lon: 15.285400000000001
+  var:
+  - tasmax

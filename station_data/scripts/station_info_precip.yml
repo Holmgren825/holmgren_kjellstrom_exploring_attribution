@@ -1,0 +1,50 @@
+Delsbo A:
+  lat: 61.7854
+  lon: 16.5505
+  var:
+  - pr
+Falun-Lugnet:
+  lat: 60.6219
+  lon: 15.6235
+  var:
+  - pr
+Gävle-Åbyggeby:
+  lat: 60.67
+  lon: 17.130000000000003
+  var:
+  - pr
+Härnösand:
+  lat: 62.628
+  lon: 17.9471
+  var:
+  - pr
+Malung A:
+  lat: 60.7041
+  lon: 13.6909
+  var:
+  - pr
+Stockholm-Observatoriekullen:
+  lat: 59.341682
+  lon: 18.054928
+  var:
+  - pr
+Sveg A:
+  lat: 62.029
+  lon: 14.3506
+  var:
+  - pr
+Uppsala:
+  lat: 59.8585
+  lon: 17.6219
+  var:
+  - pr
+Västerås:
+  lat: 59.6166
+  lon: 16.55
+  var:
+  - pr
+Örebro D:
+  lat: 59.244800000000005
+  lon: 15.285400000000001
+  var:
+  - pr

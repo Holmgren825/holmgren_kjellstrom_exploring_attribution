@@ -1,0 +1,47 @@
+paths:
+  project_folder: "/nobackup/rossby27/users/sm_erhol/station_attribution_article/gavle2021"
+  data:
+    gridclim: "/nobackup/smhid17/proj/sik/SMHIGridClim_NORDIC-11/v0.9/netcdf/day/"
+    pthbv: "/nobackup/rossby27/users/roadmin/data/pthbv/yearly/"
+    eobs: "/home/rossby/imports/obs/EOBS/EOBS24-0e/EUR-10/remap/EUR-11/day/"
+    era5: "/home/rossby/imports/obs/ECMWF/ERA5/remap/EUR-11/day/"
+    cordex: "/nobackup/rossby21/sm_stran/Klimatfabrik/MidasOut/"
+    s-lens: "/nobackup/rossby22/rossby/joint_exp/large_ensemble/cmorized/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3/historical/"
+
+  shapefile: "/home/sm_erhol/data/ne_10_admin_0_countries/ne_10m_admin_0_countries.shp"
+
+project_name: "gavle2021"
+filenames:
+  pthbv: "PTHBV_day"
+  gridclim: "SMHIGridClim_day"
+  eobs: "EOBS_day"
+  era5: "era5_day"
+  cordex: "CORDEX-ENS_rcp85_day"
+  s-lens: "s-lens_day"
+
+epsg: 3006
+
+variable:
+  - "pr"
+
+
+index_name:
+  - "rx1day"
+
+
+partial_dates:
+  low:
+    year: 1989
+  high:
+    year: 2018
+    month: 12
+    day: 30
+
+season: False
+
+roi_extent:
+  north: 63.0
+  south: 59.0
+  east: 19.5
+  west: 13.5
+
